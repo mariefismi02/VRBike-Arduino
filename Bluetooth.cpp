@@ -13,7 +13,7 @@ void Bluetooth::begin(int speed){
 }
 
 int Bluetooth::read(){
-
+	return 0;
 }
 
 void Bluetooth::println(String value){
